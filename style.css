@@ -1,0 +1,6 @@
+html, body{
+    background-image: linear-gradient(blue,white);
+}
+h1,p{
+    text-align: center;
+}
